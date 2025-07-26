@@ -1,4 +1,4 @@
-## File-references Coding Challenge
+## Redis - File-references Coding Challenge
 
 ### Test files
 Test files can be found at `src/main/resources/input`. However, the path for the folder containing the test files can 
